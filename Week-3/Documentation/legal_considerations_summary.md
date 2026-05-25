@@ -67,7 +67,7 @@ If investigators search beyond the warrant scope:
 2. Court can reject the evidence
 
 
-                                                            **Real Court Case Example**
+                                                            Real Court Case Example
 **Incident**
 Investigators created a complete forensic **image of a suspect’s hard drive** during a financial investigation,The warrant **only allowed access to specific accounting files**.
 
