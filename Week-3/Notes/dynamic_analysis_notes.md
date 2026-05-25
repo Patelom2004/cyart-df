@@ -1,7 +1,3 @@
-
-### 3.3 `dynamic_analysis_notes.md`
-
-```markdown
 # Dynamic Analysis – Sample: `evil.exe` (ANY.RUN sandbox)
 
 ## Environment: FlareVM (Windows 10 guest, isolated network)
